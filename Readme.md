@@ -16,6 +16,6 @@ This project is a basic REST API built using:
 ### Setup
 1. Ensure PostgreSQL is running.
 2. Create a DB named `demopost` and a table `demotable (id INT PRIMARY KEY, name TEXT)`
-3. Run the server: `node index.js`
+3. Run the server: `node main.js`
 
 Default port: `3000`
